@@ -6,6 +6,8 @@ Texalya is an AI-powered platform that simplifies the textile design and product
 
 We bridge the gap between creativity and production with a smart, elegant, and scalable solution for the global textile and fashion industry.
 
-Vision: To be the global standard for AI-driven textile design.
+### Vision: 
+To be the global standard for AI-driven textile design.
 
-Mission: To democratize textile design by enabling anyone to create, preview, and plan fabric production using intelligent automation.
+### Mission: 
+To democratize textile design by enabling anyone to create, preview, and plan fabric production using intelligent automation.
