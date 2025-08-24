@@ -1,5 +1,6 @@
 # Texalya
 ### Pattern Intelligence. Reimagined.
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8c3fd33f-588e-47c5-ba87-9437bb297e3f" />
 
 Texalya is an AI-powered platform that revolutionizes textile design and production. By leveraging cutting-edge artificial intelligence, Texalya simplifies the entire workflow, from generating print-ready fabric patterns to instantly estimating fabric requirements. Designers, manufacturers, and sellers can now transform their ideas into production-ready designs in seconds, all through a simple text prompt.
 
